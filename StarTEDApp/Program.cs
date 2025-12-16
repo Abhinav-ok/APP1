@@ -1,6 +1,12 @@
 using StarTEDApp.Components;
+using StarTEDSystem;
+using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("StarTEDDb");
+builder.Services.StarTEDExtensionServices(options => options.UseSqlServer(connectionString));
+
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
