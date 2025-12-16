@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\startedapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|solutionrelative:startedsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedsystem\\startedsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|solutionrelative:startedsystem\\startedsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +32,35 @@
               "RelativeDocumentMoniker": "StarTEDApp\\StarTEDApp.csproj",
               "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\StarTEDApp.csproj",
               "RelativeToolTip": "StarTEDApp\\StarTEDApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-16T17:05:41.038Z",
+              "WhenOpened": "2025-12-16T17:24:09.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\Class1.cs",
-              "RelativeDocumentMoniker": "StarTEDSystem\\Class1.cs",
-              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\Class1.cs",
-              "RelativeToolTip": "StarTEDSystem\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T17:05:30.436Z",
+              "Title": "StarTEDSystem",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\StarTEDSystem.csproj",
+              "RelativeDocumentMoniker": "StarTEDSystem\\StarTEDSystem.csproj",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\StarTEDSystem.csproj",
+              "RelativeToolTip": "StarTEDSystem\\StarTEDSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T17:19:20.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\appsettings.json",
+              "RelativeDocumentMoniker": "StarTEDApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\appsettings.json",
+              "RelativeToolTip": "StarTEDApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-16T17:20:50.269Z",
               "EditorCaption": ""
             }
           ]
