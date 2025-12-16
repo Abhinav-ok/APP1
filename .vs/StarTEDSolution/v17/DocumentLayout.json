@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\startedapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\startedapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|solutionrelative:startedsystem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StarTEDApp",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\StarTEDApp.csproj",
+              "RelativeDocumentMoniker": "StarTEDApp\\StarTEDApp.csproj",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\StarTEDApp.csproj",
+              "RelativeToolTip": "StarTEDApp\\StarTEDApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-16T17:05:41.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\Class1.cs",
+              "RelativeDocumentMoniker": "StarTEDSystem\\Class1.cs",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\Class1.cs",
+              "RelativeToolTip": "StarTEDSystem\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:05:30.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
