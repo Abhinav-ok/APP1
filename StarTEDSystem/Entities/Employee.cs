@@ -46,4 +46,8 @@ public partial class Employee
     [ForeignKey("ProgramID")]
     [InverseProperty("Employees")]
     public virtual Program Program { get; set; }
+
+    [NotMapped]
+    public string FullName { get { return LastName + ", " + FirstName; } }
+
 }

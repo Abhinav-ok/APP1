@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedsystem\\bll\\programservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|solutionrelative:startedsystem\\bll\\programservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedsystem\\startedsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|solutionrelative:startedsystem\\startedsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedsystem\\dal\\startedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E815B1DE-FBCA-4B43-8249-D958AD25DF40}|StarTEDSystem\\StarTEDSystem.csproj|solutionrelative:startedsystem\\dal\\startedcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,12 +30,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgramServices.cs",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\BLL\\ProgramServices.cs",
+              "RelativeDocumentMoniker": "StarTEDSystem\\BLL\\ProgramServices.cs",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\BLL\\ProgramServices.cs",
+              "RelativeToolTip": "StarTEDSystem\\BLL\\ProgramServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:58:29.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StarTEDApp",
+              "Title": "StarTEDContext.cs",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\DAL\\StarTEDContext.cs",
+              "RelativeDocumentMoniker": "StarTEDSystem\\DAL\\StarTEDContext.cs",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\DAL\\StarTEDContext.cs",
+              "RelativeToolTip": "StarTEDSystem\\DAL\\StarTEDContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T17:52:40.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StarTEDApp.csproj",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\StarTEDApp.csproj",
               "RelativeDocumentMoniker": "StarTEDApp\\StarTEDApp.csproj",
               "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\StarTEDApp.csproj",
@@ -39,20 +73,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StarTEDSystem",
+              "DocumentIndex": 1,
+              "Title": "StarTEDSystem.csproj",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\StarTEDSystem.csproj",
               "RelativeDocumentMoniker": "StarTEDSystem\\StarTEDSystem.csproj",
               "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\StarTEDSystem.csproj",
               "RelativeToolTip": "StarTEDSystem\\StarTEDSystem.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-16T17:19:20.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\appsettings.json",
               "RelativeDocumentMoniker": "StarTEDApp\\appsettings.json",
@@ -60,8 +94,7 @@
               "RelativeToolTip": "StarTEDApp\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-16T17:20:50.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T17:20:50.269Z"
             }
           ]
         }
