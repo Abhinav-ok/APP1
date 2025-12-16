@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\components\\pages\\a01employeesquery.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\a01employeesquery.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|solutionrelative:startedapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{128465B3-97CD-4A2C-9219-DF6BA47A680D}|StarTEDApp\\StarTEDApp.csproj|c:\\users\\abhin\\onedrive\\desktop\\startedapp\\startedsolution\\startedapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,37 +74,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T19:56:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "A01EmployeesQuery.razor",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\A01EmployeesQuery.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\A01EmployeesQuery.razor",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\A01EmployeesQuery.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\A01EmployeesQuery.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T19:53:07.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T19:50:03.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T19:49:59.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "StarTEDApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\App.razor",
+              "RelativeToolTip": "StarTEDApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T19:49:48.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
               "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "StarTEDApp\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T19:41:26.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "StarTEDApp\\Components\\Layout\\MainLayout.razor",
               "ToolTip": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "StarTEDApp\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-16T19:38:46.485Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\Program.cs",
               "RelativeDocumentMoniker": "StarTEDApp\\Program.cs",
@@ -97,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "StarTEDExtensions.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\StarTEDExtensions.cs",
               "RelativeDocumentMoniker": "StarTEDSystem\\StarTEDExtensions.cs",
@@ -110,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "EmployeeServices.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\BLL\\EmployeeServices.cs",
               "RelativeDocumentMoniker": "StarTEDSystem\\BLL\\EmployeeServices.cs",
@@ -123,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "PositionServices.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\BLL\\PositionServices.cs",
               "RelativeDocumentMoniker": "StarTEDSystem\\BLL\\PositionServices.cs",
@@ -136,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ProgramServices.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\BLL\\ProgramServices.cs",
               "RelativeDocumentMoniker": "StarTEDSystem\\BLL\\ProgramServices.cs",
@@ -149,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "StarTEDContext.cs",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\DAL\\StarTEDContext.cs",
               "RelativeDocumentMoniker": "StarTEDSystem\\DAL\\StarTEDContext.cs",
@@ -162,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "StarTEDApp.csproj",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\StarTEDApp.csproj",
               "RelativeDocumentMoniker": "StarTEDApp\\StarTEDApp.csproj",
@@ -175,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "StarTEDSystem.csproj",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDSystem\\StarTEDSystem.csproj",
               "RelativeDocumentMoniker": "StarTEDSystem\\StarTEDSystem.csproj",
@@ -188,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\abhin\\OneDrive\\Desktop\\StarTedApp\\StarTEDSolution\\StarTEDApp\\appsettings.json",
               "RelativeDocumentMoniker": "StarTEDApp\\appsettings.json",
